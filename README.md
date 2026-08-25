@@ -16,6 +16,7 @@ while i < len(s):
 output: 
    xxoxoo
     0012
+
 2.
    a = list(map(int, input().split()))
 x = int(input())
@@ -39,6 +40,7 @@ output:
 [1, 3, 7, 7, 8, 8, 9]
 True
 
+
 3.
   s = input()
 
@@ -56,6 +58,7 @@ print(result)
  
   Input:  abc d1@
 Output: cde f1@
+
 
 4.
     s = input()
@@ -79,6 +82,7 @@ output:
         y : 3
         z : 4
         a : 1
+
 5.
 #include <stdio.h>
 
@@ -103,6 +107,7 @@ int main()
 output:
       123
       6
+
 
 6.
 #include <stdio.h>
@@ -142,6 +147,7 @@ output:
    Minimum: 2
 Maximum: 9
 
+
 7.
   #include <stdio.h>
 
@@ -177,6 +183,7 @@ output:
        bi0s CTF recruitment
   Vowels: 5
 Consonants: 12
+
 8.
 
 #include <stdio.h>
